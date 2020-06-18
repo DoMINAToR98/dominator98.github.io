@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dominator"
 title_separator          : "-"
 name                     : &name "Kartik Sharma"
-description              : &description "Incoming Masters in Cybersecurity student, Northeastern University"
+description              : &description "Cybersecurity Enthusiast"
 url                      : https://dominator98.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DoMINAToR98/dominator98.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kartik Sharma"
   avatar           : "new.jpg"
-  bio              : "Incoming Masters in Cybersecurity student, Northeastern University"
+  bio              : "Cybersecurity Enthusiast"
   location         : "New Delhi, India"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
