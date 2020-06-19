@@ -6,7 +6,6 @@ author_profile: true
 redirect_from: 
   - /work-experience.html/
 ---
-**Internships**
 * **Internshala: Virtual Ethical Hacking Intern**  *(05/2019 – Present)* 
   * Resolved 1000+ queries and assessed hackathon projects from students enrolled in the ethical hacking program.
   * Contributed to the course curriculum. 
