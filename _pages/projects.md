@@ -6,7 +6,6 @@ author_profile: true
 redirect_from: 
   - /projects.html/
 ---
-**Research/Industry projects**
 * **Shell-Writer, Major Project**  *(Spring 2020)* <br>
  Guide: Asst. Prof. Jyoti Verma  
   * A cross-platform, multi-payload HID, capable of bypassing windows defender and provides privilege escalation information without human interaction.
