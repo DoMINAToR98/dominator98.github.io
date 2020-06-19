@@ -7,7 +7,7 @@ redirect_from:
   - /achievements.html/
 ---
 
-* **Hall of Fame**
+* **Hall of Fames**
   * Found a valid issue of critical severity on Naspers.com (Jun 2020)
   * Found multiple valid issues of medium severity on Telefonica Germany (Jun 2020)
   
