@@ -24,6 +24,6 @@ redirect_from:
   * Worked on switch hardening and configuration of Cisco-asa5585 Firewall. 
   * Learned modern cryptography during the tenure. 
   
-* **Defense Research & Development Organisation of India, Delhi:  Winter Trainee	**  *(12/2017 – 02/2018)* 
+* **Defense Research & Development Organisation of India, Delhi:  Winter Trainee**  *(12/2017 – 02/2018)* 
   * Analyzed malwares in multiple formats. 
   * Used tools IDA-Pro, Olly-DBG, Procmon and REMNUX Operating System. 
