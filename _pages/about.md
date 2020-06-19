@@ -18,4 +18,4 @@ Currently, I am:
 
 Actively looking for full-time opportunities (interested in remote jobs as well) starting August 2020 in the Cybersecurity domain.
 
-*A pdf version of my resume is available [here](https://drive.google.com/file/d/1yvjkGX_KPPHlaZgVFNenqOR3cV1Rjra3/view)*
+*A pdf version of my resume is available [here](https://drive.google.com/file/d/1GmPyaEZYWNax2eeXgqdufAwsYu1CwLvJ/view)*
