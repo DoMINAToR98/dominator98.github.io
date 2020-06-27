@@ -14,7 +14,7 @@ redirect_from:
   * Worked on 1 Red Teaming and 6 VAPT Engagements.
   * Performed Web/Network/Mobile/API security assessments for multiple clients across various industries.
 
-* **Hackabyte, Janakpuri, New Delhi: Security Intern**  *(01/2019 – 04/2020)* 
+* **Hackabyte, Janakpuri, New Delhi: Security Intern**  *(01/2019 – 06/2020)* 
   * Built android applications for pentesting. 
   * Created workshops on Image Forensics and Quantum Crytography.
   * Wrote several blog posts about different topics in Penetration Testing and CTFs.
