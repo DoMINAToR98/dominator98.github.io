@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 * **Hall of Fames**
-  * Found a valid issue of critical severity on Naspers.com (Jun 2020)
-  * Found multiple valid issues of medium severity on Telefonica Germany (Jun 2020)
+  * Found multiple valid issues on various organizations like Cisco, Akamai, Harvard University, etc.  
   
 * **Research Awards**
   * Research Excellence Award (REA): Journal of Artificial Intelligence and Systems (Dec 2019) 
