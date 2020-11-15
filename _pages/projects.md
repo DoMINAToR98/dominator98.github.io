@@ -14,7 +14,7 @@ redirect_from:
 * **Acenka, Minor Project**  *(Fall 2019)*  
  Guide: Asst. Prof. Uma Tomer  
   * Website vulnerability scanner which scans websites that use Content Management Systems (CMS) like Wordpress, Drupal, and Joomla, etc, and also shows server related misconfigurations such as open ports, os versions, etc.
-  * For more details about project, please check this [page](TBD). 
+  * For more details about project, please check this [project-link](https://github.com/DoMINAToR98/CMS_Scanner). 
 
 * **Chat Application for Pentesting**  *(Spring 2019)*
   * Built an application for Pentesting in Android Studio, which does not trigger any security alerts on the device. It carefully extracts the required information in the background using predefined android functions and libraries.
