@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Final year student pursuing Bachelor's in Computer Science at Guru Gobind Singh Indraprastha University, Delhi. 
+Computer Science Graduate from Guru Gobind Singh Indraprastha University(GGSIPU), Delhi. 
 
 Currently, I am:
-1. Hunting bugs at [Bugcrowd](https://bugcrowd.com/Dominator). 
-2. Working as Remote Ethical Hacking Assisstant at Internshala. 
-3. Automating the recon process with push-notification features.
-4. Preparing for OSCP at [Hack the Box Labs](https://www.hackthebox.eu/home/users/profile/63505)
+1. Hunting bugs at [Bugcrowd](https://bugcrowd.com/Dominator) and Synack. 
+2. Working as Independent Consultant at [Paladion](https://www.paladion.net/). 
+3. Preparing for OSCP at [Hack the Box Labs](https://www.hackthebox.eu/home/users/profile/63505).
 
-Actively looking for full-time opportunities (interested in remote jobs as well) starting August 2020 in the Cybersecurity domain.
+<!-- Actively looking for full-time opportunities (interested in remote jobs as well) starting August 2020 in the Cybersecurity domain. --!>
 
-*A pdf version of my resume is available [here](https://drive.google.com/file/d/1nTq4eNYjIBbREmk4xy8j8ajwpALPonZ_/view?usp=sharing)*
+*A pdf version of my resume is available [here](https://drive.google.com/file/d/1csdIsgw69BCKB4W0sgJ08UBp34V2EAHF/view?usp=sharing)*
