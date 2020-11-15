@@ -9,7 +9,7 @@ redirect_from:
 * **Shell-Writer, Major Project**  *(Spring 2020)* <br>
  Guide: Asst. Prof. Jyoti Verma  
   * A cross-platform, multi-payload HID, capable of bypassing windows defender and provides privilege escalation information without human interaction.
-  * For more details about project, please check this [page](TBD). 
+  * For more details about project, please check this [project-link](https://github.com/DoMINAToR98/Shell-Writer). 
 
 * **Acenka, Minor Project**  *(Fall 2019)*  
  Guide: Asst. Prof. Uma Tomer  
