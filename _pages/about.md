@@ -15,6 +15,8 @@ Currently, I am:
 2. Working as Independent Consultant at [Paladion](https://www.paladion.net/). 
 3. Preparing for OSCP at [Hack the Box Labs](https://www.hackthebox.eu/home/users/profile/63505).
 
-<!-- Actively looking for full-time opportunities (interested in remote jobs as well) starting August 2020 in the Cybersecurity domain. --!>
 
 *A pdf version of my resume is available [here](https://drive.google.com/file/d/1csdIsgw69BCKB4W0sgJ08UBp34V2EAHF/view?usp=sharing)*
+
+
+<!-- Actively looking for full-time opportunities (interested in remote jobs as well) starting August 2020 in the Cybersecurity domain. --!>
