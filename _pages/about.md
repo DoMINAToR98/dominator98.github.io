@@ -17,6 +17,3 @@ Currently, I am:
 
 
 *A pdf version of my resume is available [here](https://drive.google.com/file/d/1csdIsgw69BCKB4W0sgJ08UBp34V2EAHF/view?usp=sharing)*
-
-
-<!-- Actively looking for full-time opportunities (interested in remote jobs as well) starting August 2020 in the Cybersecurity domain. --!>
