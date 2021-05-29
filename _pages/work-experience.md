@@ -6,7 +6,11 @@ author_profile: true
 redirect_from: 
   - /work-experience.html/
 ---
-* **Internshala: Virtual Ethical Hacking Intern**  *(05/2019 – Present)* 
+* **Paladion Networks: Security Consultant, Special Operations Team**  *(11/20 – 02/21)* 
+  * Worked on 6 Red Teaming and 9 VAPT assessments.
+  * Gave sessions on topics: Bypassing Windows sandbox hardening, automation in VAPT assessments and advanced Burpsuite tactics.
+
+* **Internshala: Virtual Ethical Hacking Intern**  *(05/2019 – 10/2020)* 
   * Resolved 1000+ queries and assessed hackathon projects from students enrolled in the ethical hacking program.
   * Contributed to the course curriculum. 
   
