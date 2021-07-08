@@ -12,7 +12,9 @@ Computer Science Graduate from Guru Gobind Singh Indraprastha University(GGSIPU)
 
 Currently, I am:
 1. Finding bugs at [Synack](https://www.synack.com/red-team/). 
-2. Preparing for OSCP at [Hack the Box Labs](https://www.hackthebox.eu/home/users/profile/63505).
-3. Trying to automate as much as I can using my naive scripting skills. 
+2. Trying to automate as much as I can using my naive scripting skills.
+3. Upgrading skills on android security. 
 
-*A pdf version of my resume is available [here](https://drive.google.com/file/d/14ncmk_Zh4GboykN-rWs0bRe9GphLkH5k/view?usp=sharing)*
+*A pdf version of my resume is available [here](https://drive.google.com/file/d/1xa3mQJCAR20kkumFNfBVOkOHyHLYIPV_/view?usp=sharing)*
+
+Last Updated: 8 July 2021
