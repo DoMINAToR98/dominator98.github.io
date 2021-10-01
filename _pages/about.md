@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Computer Science Graduate from Guru Gobind Singh Indraprastha University(GGSIPU), Delhi. 
+Cybersecurity Graduate student at Northeastern University, Boston. 
 
 Currently, I am:
-1. Finding bugs at [Synack](https://www.synack.com/red-team/). 
-2. Trying to automate as much as I can using my naive scripting skills.
-3. Upgrading skills on android security. 
+1. TAing at Khoury College of Computer Sciences for Android Development(CS5520). 
+2. Finding bugs @synack. 
+3. Automating as much as I can using my naive scripting skills.
 
-*A pdf version of my resume is available [here](https://drive.google.com/file/d/1xa3mQJCAR20kkumFNfBVOkOHyHLYIPV_/view?usp=sharing)*
+*A pdf version of my resume is available [here](https://drive.google.com/file/d/1-6rHqKkJiinDMViGixHKdM-mvywWX9Vl/view?usp=sharing)*
 
-Last Updated: 8 July 2021
+Last Updated: 30 September 2021
