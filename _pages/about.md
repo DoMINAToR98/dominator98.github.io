@@ -15,6 +15,6 @@ Currently, I am:
 2. Finding bugs @synack. 
 3. Automating as much as I can using my naive scripting skills.
 
-*A pdf version of my resume is available [here](https://drive.google.com/file/d/1-6rHqKkJiinDMViGixHKdM-mvywWX9Vl/view?usp=sharing)*
+*A pdf version of my resume is available [here](https://drive.google.com/file/d/1j84XKydrSZYkX0V76Q76BNtWZ5MIEpdK/view?usp=sharing)*
 
 Last Updated: 30 September 2021
