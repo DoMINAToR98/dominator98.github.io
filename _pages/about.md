@@ -10,7 +10,7 @@ redirect_from:
 
 Cybersecurity Graduate student at Northeastern University, Boston. 
 
-Currently, I’m looking for full-time internship/coop opportunities for Fall 2022.
+Currently, I’m looking for internship/coop and full-time opportunities for Fall 2022 and Spring 2023 respectively.
 
 Skills/Interests: Web Security, Automation, Penetration Testing (Android/Network/Web), Red Teaming (Internal and External)
 Programming Languages: C, C++, Python, Bash, Android Java
