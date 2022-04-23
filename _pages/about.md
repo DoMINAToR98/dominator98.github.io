@@ -10,7 +10,7 @@ redirect_from:
 
 Cybersecurity Graduate student at Northeastern University, Boston. 
 \
-Currently, I’m looking for internship/coop and full-time opportunities for Fall 2022 and Spring 2023 respectively.
+Currently, I’m looking for internship/coop opportunities for Fall 2022.
 \
 \
 Skills/Interests: Web Security, Automation, Penetration Testing (Android/Network/Web), Red Teaming (Internal and External)
@@ -23,6 +23,6 @@ Environment and Tools: Burpsuite, NMAP, Autopsy, Nessus, Docker, Git, Android St
 Anything that involves security has my curiosity! In case you have any doubts about certifications, pursuing a master’s degree, or how to deep dive into offensive security, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/kartik-sharma-19081998/).
 \
 \
-*A pdf version of my resume is available [here](https://drive.google.com/file/d/1j84XKydrSZYkX0V76Q76BNtWZ5MIEpdK/view?usp=sharing)*
+*A pdf version of my resume is available [here](https://bit.ly/36G9M6X)*
 \
-Last Updated: 21 April 2022
+Last Updated: 22 April 2022
