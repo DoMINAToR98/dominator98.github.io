@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Cybersecurity Graduate student at Northeastern University, Boston. 
+Cybersecurity Graduate Student at Northeastern University, Boston. 
 \
-Currently, I’m looking for internship/coop opportunities for Fall 2022.
+I am actively seeking full-time opportunities in Product Security, Security Engineering, and Offensive Security roles, with availability starting from May 2023.
 \
 \
-Skills/Interests: Web Security, Automation, Penetration Testing (Android/Network/Web), Red Teaming (Internal and External)
+`Skills/Interests`: Security Engineering, Web Security, Security Automation, Offensive Security 
 \
-Programming Languages: C, C++, Python, Bash, Android Java
+`Programming Languages`: Python, Bash, Android Java, C/C++, Javascript
 \
-Environment and Tools: Burpsuite, NMAP, Autopsy, Nessus, Docker, Git, Android Studio, Olly-Dbg, IDA-Pro
+`Environment and Tools`: Terraform, Kubernetes, Burpsuite, NMAP, Autopsy, Nessus, Docker, Android Studio, FastAPI, MongoDB, ReactJS
 \
 \
 Anything that involves security has my curiosity! In case you have any doubts about certifications, pursuing a master’s degree, or how to deep dive into offensive security, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/kartik-sharma-19081998/).
@@ -25,4 +25,4 @@ Anything that involves security has my curiosity! In case you have any doubts ab
 \
 *A pdf version of my resume is available [here](https://bit.ly/36G9M6X)*
 \
-Last Updated: 22 April 2022
+Last Updated: 1 March 2023

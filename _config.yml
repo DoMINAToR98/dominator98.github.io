@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dominator"
 title_separator          : "-"
 name                     : &name "Kartik Sharma"
-description              : &description "Cybersecurity Enthusiast"
+description              : &description ""
 url                      : https://dominator98.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DoMINAToR98/dominator98.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kartik Sharma"
   avatar           : "test.jpg"
-  bio              : "Cybersecurity Enthusiast"
+  bio              : ""
   location         : "Massachusetts, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
