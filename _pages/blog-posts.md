@@ -28,4 +28,7 @@ redirect_from:
   `Published: 06/08/19`
   *  CTF Challenge: Super Secure System writeup. [`link`](https://98kartik-sharma.medium.com/hsctf-super-secure-system-b19e918844e1)
 
+* **Securinets Prequals CTF: EZ**
+  `Published: 03/24/19`
+  *  CTF Challenge: EZ writeup. [`link`](https://98kartik-sharma.medium.com/steganography-challenge-ez-331-points-e38d41315f64)
 
