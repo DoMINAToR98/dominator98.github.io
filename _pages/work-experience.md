@@ -7,8 +7,8 @@ redirect_from:
   - /work-experience.html/
 ---
 
-* **Research Apprentice: Khoury College of Computer Science, Northeastern University**  *(01/23 – Present)* 
-  * Currently working with [Engin Kirda](https://www.ccs.neu.edu/home/ek/) and [Steven Spreacher](https://swsprec.com/). 
+* **Research Apprentice: Northeastern University**  *(01/23 – Present)* 
+  * Currently working with [Engin Kirda](https://www.ccs.neu.edu/home/ek/) and [Steven Sprecher](https://swsprec.com/). 
 
 * **Security Intern: Copart Inc.**  *(09/22 – 12/22)* 
   * Reduced effort by 90% on MFA Okta Policy auditing through orchestrating complete process using Python Selenium and headless
