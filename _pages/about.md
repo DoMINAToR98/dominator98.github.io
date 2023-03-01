@@ -27,4 +27,4 @@ In case you have any doubts about certifications, pursuing a master’s degree, 
 \
 <!-- *A pdf version of my resume is available [here](https://bit.ly/36G9M6X)* -->
 \
-Last Updated: 1 March 2023
+<sub>Last Updated: 1 March 2023</sub>
