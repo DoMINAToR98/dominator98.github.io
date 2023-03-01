@@ -29,6 +29,6 @@ redirect_from:
 
 * **Hackathons**
   * Shortlisted at 5GWD: Ultrahacks Oulu, Finland (Jun 2017)
-    * Created an extension to [Sarcar](https://github.com/Kida007/SarCar) and pitched the project at Oulu, Finland
+    * Created an extension to [`Sarcar`](https://github.com/Kida007/SarCar) and pitched the project at Oulu, Finland
   * Consolation Prize India Smart Grid Week Hackathon: NSIT by TATA POWER (Jan 2017)
   * 2nd Position InfoXpression UHACK: USICT (Oct 2016)
