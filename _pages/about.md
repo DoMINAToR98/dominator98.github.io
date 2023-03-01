@@ -13,11 +13,11 @@ Cybersecurity Graduate Student at Northeastern University, Boston.
 I am actively seeking full-time opportunities in Product Security, Security Engineering, and Offensive Security roles, with availability starting from May 2023.
 \
 \
-**Skills/Interests**: `Security Engineering`, `Web Security`, `Security Automation`, `Offensive Security` 
+**Skills/Interests**: `Security Engineering`, `Infrastructure Security`, `Web Application Security`, `Security Automation`, `Offensive Security`, `Red Teaming`
 \
 **Programming Languages**: `Python`, `Bash`, `Android Java`, `C/C++`, `Javascript`
 \
-**Environment and Tools**: `Terraform`, `Kubernetes`, `Burpsuite`, `NMAP`, `Autopsy`, `Nessus`, `Docker`, `Android Studio`, `FastAPI`, `MongoDB`, `ReactJS`
+**Environment and Tools**: `Terraform`, `Kubernetes`, `Selenium`, `Tines`, `Burpsuite`, `NMAP`, `Autopsy`, `Nessus`, `Docker`, `Android Studio`, `FastAPI`, `MongoDB`, `ReactJS`
 \
 \
 Anything that involves security has my curiosity! 
