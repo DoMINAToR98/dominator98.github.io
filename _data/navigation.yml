@@ -2,12 +2,15 @@
 main:
   - title: "Work Experience"
     url: /work-experience/
+  - title: "Blog Posts"
+    url: /blog-posts/
+  - title: "Achievements"
+    url: /achievements/
   - title: "Projects"
     url: /projects/    
   - title: "Publications"
     url: /publications/
-  - title: "Achievements"
-    url: /achievements/
+
 #   - title: "Talks"
 #     url: /talks/    
 #   - title: "Teaching"
