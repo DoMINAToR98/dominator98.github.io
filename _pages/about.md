@@ -20,11 +20,12 @@ I am actively seeking full-time opportunities in Product Security, Security Engi
 **Environment and Tools**: `Terraform`, `Kubernetes`, `Selenium`, `Tines`, `Burpsuite`, `NMAP`, `Autopsy`, `Nessus`, `Docker`, `Android Studio`, `FastAPI`, `MongoDB`, `ReactJS`
 \
 \
-Anything that involves security has my curiosity! 
+*Anything that involves security has my curiosity!*
+\
 \
 In case you have any doubts about certifications, pursuing a master’s degree, or how to deep dive into offensive security, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/kartik-sharma-19081998/).
 \
 \
-*A pdf version of my resume is available [here](https://bit.ly/36G9M6X)*
+<!-- *A pdf version of my resume is available [here](https://bit.ly/36G9M6X)* -->
 \
 Last Updated: 1 March 2023

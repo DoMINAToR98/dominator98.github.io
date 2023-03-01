@@ -6,27 +6,41 @@ author_profile: true
 redirect_from: 
   - /work-experience.html/
 ---
-* **Paladion Networks: Security Consultant, Special Operations Team**  *(11/20 – 02/21)* 
+
+* **Research Apprentice: Khoury College of Computer Science, Northeastern University**  *(01/23 – Present)* 
+  * Currently working with [Engin Kirda](https://www.ccs.neu.edu/home/ek/) and [Steven Spreacher](https://swsprec.com/). 
+
+* **Security Intern: Copart Inc.**  *(09/22 – 12/22)* 
+  * Reduced effort by 90% on MFA Okta Policy auditing through orchestrating complete process using Python Selenium and headless
+    Chrome for generating CSV reports via DOM manipulation.
+  * Conducted 2 sessions aimed at educating and guiding security teammates on how to get started with bug bounties.
+
+* **Product Security Engineer Co-op: Salesforce Inc.**  *(05/22 – 09/22)* 
+  * Developed a highly scalable and automated Dynamic Application Security Testing (DAST) solution for detecting vulnerabilities in
+    web applications using AWS Micro-service architecture.
+  * Automated information disclosure vulnerabilities to identify 700+ (priority 0) findings with an estimated worth of 3M dollars.
+
+* **Security Consultant, Special Operations Team: Paladion Networks**  *(11/20 – 02/21)* 
   * Worked on 6 Red Teaming and 9 VAPT assessments.
   * Gave sessions on topics: Bypassing Windows sandbox hardening, automation in VAPT assessments and advanced Burpsuite tactics.
 
-* **Internshala: Virtual Ethical Hacking Intern**  *(05/2019 – 10/2020)* 
+* **Virtual Ethical Hacking Intern: Internshala**  *(05/2019 – 10/2020)* 
   * Resolved 1000+ queries and assessed hackathon projects from students enrolled in the ethical hacking program.
   * Contributed to the course curriculum. 
   
-* **BDO LLP, India: BAS, Cyber Intern**  *(03/2020 – 06/2020)* 
+* **BAS, Cyber Intern: BDO LLP**  *(03/2020 – 06/2020)* 
   * Worked on 1 Red Teaming and 6 VAPT Engagements.
   * Performed Web/Network/Mobile/API security assessments for multiple clients across various industries.
 
-* **Hackabyte, Janakpuri, New Delhi: Security Intern**  *(01/2019 – 06/2020)* 
+* **Security Intern: Hackabyte**  *(01/2019 – 06/2020)* 
   * Built android applications for pentesting. 
   * Created workshops on Image Forensics and Quantum Crytography.
   * Wrote several blog posts about different topics in Penetration Testing and CTFs.
 
-* **Infosys, TDS Office, Vaishali: Cyber Security Intern**  *(10/2018 – 12/2018)* 
+* **Cyber Security Intern: Infosys**  *(10/2018 – 12/2018)* 
   * Worked on switch hardening and configuration of Cisco-asa5585 Firewall. 
   * Learned modern cryptography during the tenure. 
   
-* **Defense Research & Development Organisation of India, Delhi:  Winter Trainee**  *(12/2017 – 02/2018)* 
+* **Winter Trainee: Defense Research & Development Organisation of India**  *(12/2017 – 02/2018)* 
   * Analyzed malwares in multiple formats. 
   * Used tools IDA-Pro, Olly-DBG, Procmon and REMNUX Operating System. 
