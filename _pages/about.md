@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-2+ Years of experience in Application Security, Product Security, Red Teaming and Penetration Testing. I'm actively seeking full-time opportunities with availability starting from May 2023.
+2+ Years of experience in Application Security, Product Security, Red Teaming and Penetration Testing. Cybersecurity Graduate Student at Northeastern University, Boston. 
+\
+I'm actively seeking full-time opportunities with availability starting from May 2023.
 \
 \
 **Skills/Interests**: `Security Engineering`, `Infrastructure Security`, `Web Application Security`, `Security Automation`, `Offensive Security`, `Red Teaming`
