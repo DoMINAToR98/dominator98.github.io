@@ -7,8 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+2+ Years of experience in Application Security, Product Security, Red Teaming and Penetration Testing.
 \
-I am actively seeking full-time opportunities in Product Security, Application Security, Security Engineering, and Offensive Security roles, with availability starting from May 2023.
+I'm Actively seeking full-time opportunities with availability starting from May 2023.
 \
 \
 **Skills/Interests**: `Security Engineering`, `Infrastructure Security`, `Web Application Security`, `Security Automation`, `Offensive Security`, `Red Teaming`
