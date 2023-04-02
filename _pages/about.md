@@ -7,10 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Cybersecurity Graduate Student at Northeastern University, Boston. 
 \
-I am actively seeking full-time opportunities in Product Security, Security Engineering, and Offensive Security roles, with availability starting from May 2023.
+I am actively seeking full-time opportunities in Product Security, Application Security, Security Engineering, and Offensive Security roles, with availability starting from May 2023.
 \
 \
 **Skills/Interests**: `Security Engineering`, `Infrastructure Security`, `Web Application Security`, `Security Automation`, `Offensive Security`, `Red Teaming`
