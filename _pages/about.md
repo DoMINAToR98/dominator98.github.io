@@ -9,6 +9,7 @@ redirect_from:
 ---
 2+ Years of experience in Application Security, Product Security, Red Teaming and Penetration Testing. Cybersecurity Graduate Student at Northeastern University, Boston. 
 \
+\
 I'm actively seeking full-time opportunities with availability starting from May 2023.
 \
 \
