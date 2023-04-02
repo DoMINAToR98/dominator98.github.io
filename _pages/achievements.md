@@ -18,7 +18,7 @@ redirect_from:
   * Recognized by over 50 companies like Netflix, Slack, Akamai, Department of Defense, Cisco, Oracle, Comcast Xfinity, Telefonica, etc for reporting security issues in their android and web applications
 
 * **Capture The Flag Competitions**
-  * 1st Position Boston Area Security Conference (BASC) CTF, CMD+CTRL Cyber Range, (Apr 2023)
+  * 1st Position Boston Area Security Conference (BASC) CTF, CMD+CTRL Cyber Range (Apr 2023)
   * 1st Position Attack Defence CTF organised by Alcapwn CTF Team (Apr 2020)
   * DSCI CTF 2019 Finalist #10 (Dec 2019)
   * 3rd Position: Encrypt CTF (Apr 2019)
