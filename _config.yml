@@ -14,7 +14,7 @@ description              : &description "MS Cybersecurity, Northeastern Universi
 url                      : https://thekartiksharma.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DoMINAToR98/dominator98.github.io"
-teaser                   : "test.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "main.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : false
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Kartik Sharma"
-  avatar           : "test.jpg"
+  avatar           : "main.png"
   bio              : ""
-  location         : "Massachusetts, USA"
+  location         : "California, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   email            : "98kartik.sharma@gmail.com"
