@@ -7,24 +7,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
-4+ Years of experience in Application Security, Product Security, Red Teaming and Penetration Testing. Cybersecurity Graduate Student at Northeastern University, Boston. 
+Experienced security professional with 5+ years of experience and a track record of delivering highly impactful projects in Product Security, Offensive Security and Security Automation.
 \
 \
-I'm actively seeking full-time opportunities with availability starting from May 2023.
+People interested in collaborating on projects, reach out to me at security@thekartiksharma.com
 \
 \
-**Skills/Interests**: `Security Engineering`, `Infrastructure Security`, `Web Application Security`, `Security Automation`, `Offensive Security`, `Red Teaming`
+**Skills/Interests**: `Security Engineering`, `Infrastructure Security`, `Web Application Security`, `Security Automation`, `Offensive Security`, `Red Teaming`, `Enterprise Security`
 \
 **Programming Languages**: `Python`, `Bash`, `Android Java`, `C/C++`, `Javascript`
 \
-**Environment and Tools**: `Terraform`, `Kubernetes`, `Selenium`, `Tines`, `Burpsuite`, `NMAP`, `Autopsy`, `Nessus`, `Docker`, `Android Studio`, `FastAPI`, `MongoDB`, `ReactJS`
+**Environment and Tools**: `Terraform`, `Kubernetes`, `Selenium`, `Tines`, `Burpsuite`, `NMAP`, `Autopsy`, `Nessus`, `Docker`, `Android Studio`, `FastAPI`, `MongoDB`, `ReactJS`, `Defect Dojo`, `Checkmarx`
 \
 \
 *Anything that involves security has my curiosity!*
 \
 \
-In case you have any doubts about certifications, pursuing a master’s degree, or how to deep dive into offensive security, feel free to reach out to me on [`LinkedIn`](https://www.linkedin.com/in/kartik-sharma-19081998/).
+In case you have any doubts about certifications, pursuing a master’s degree, product/enterprise security, etc feel free to reach out to me on [`LinkedIn`](https://www.linkedin.com/in/kartik-sharma-19081998/).
 \
-<!-- *A pdf version of my resume is available [here](https://bit.ly/36G9M6X)* -->
 \
 <sub>Last Updated: 1 March 2023</sub>
