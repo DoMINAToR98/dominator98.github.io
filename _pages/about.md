@@ -17,7 +17,7 @@ People interested in collaborating on projects, reach out to me at security@thek
 \
 **Programming Languages**: `Python`, `Bash`, `Android Java`, `C/C++`, `Javascript`
 \
-**Environment and Tools**: `Terraform`, `Kubernetes`, `Selenium`, `Tines`, `Burpsuite`, `NMAP`, `Autopsy`, `Nessus`, `Docker`, `Android Studio`, `FastAPI`, `MongoDB`, `ReactJS`, `Defect Dojo`, `Checkmarx`
+**Environment and Tools**: `Terraform`, `Kubernetes`, `Selenium`, `Burpsuite`, `NMAP`, `Autopsy`, `Nessus`, `Docker`, `Android Studio`, `FastAPI`, `MongoDB`, `ReactJS`, `Defect Dojo`, `Semgrep`, `Checkmarx`, `Tines`
 \
 \
 *Anything that involves security has my curiosity!*
